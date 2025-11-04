@@ -1,4 +1,5 @@
 QuickSummarizer
+
 📝 Project Summary
 A Chrome Extension designed for efficient content consumption and management. It leverages a dedicated Spring Boot backend to perform real-time text summarization and integrates a system for local note management.
 
